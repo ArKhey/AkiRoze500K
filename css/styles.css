@@ -98,7 +98,7 @@ body {
 
 
 .section1 {width:100%;
-    min-height: 100vh;
+    min-height:;
 	 
 	
 	}
@@ -121,13 +121,15 @@ body {
 		
 		.title1 {
 		width:60%;
-		margin: 0px;
+		margin: 120px 0px;
 		position: relative;
 		left: 50%;
   		transform: translate(-50%, 0%);
   		text-align:center;	
 		background-color: transparent;
-		border-radius:20px;	
+		border-radius:20px;
+		font-size:40px;
+	
 		}
 		
 		.title9 {
@@ -151,6 +153,8 @@ body {
 					.title1 {
 					width:100%;
 					border-radius: 50px;
+					font-size:24px;
+					margin: 40px 0px;
 					}
 				
 				}
